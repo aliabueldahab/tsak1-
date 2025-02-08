@@ -1,0 +1,14 @@
+.fade-in .firstimg img{
+    width: 600px;
+    height: 500px;
+    border-radius: 30px;
+
+}
+
+.fade-in .firstimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+}
+
